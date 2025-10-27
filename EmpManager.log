@@ -1,0 +1,52 @@
+1761512209092:help
+1761512258716:add-employee
+1761512320315:add-employee --name Titus James --email titusjames@gmail.com --salary 20000
+1761512342253:spring:
+1761512391863:add-employee
+1761512398692:clear
+1761512402418:quit
+1761512439193:help
+1761512452444:add-employee
+1761512484010:add-emplouee --name Titus --email titusjames@gmail.com --salary 20000
+1761512513104:add-employee --name Titus --email titusjames@gmail.com --salary 20000
+1761512543353:add-emplouee --name Aariyan --email aariyansunu@gmail.com --salary 21000
+1761512566325:add-employee --name Aariyan --email aariyansunu@gmail.com --salary 21000
+1761512606359:add-employee --name Neha --email nehamary@gmail.com --salary 22000
+1761512627796:add-employee --name Mathew --email mathewmaijo@gmail.com --salary 21000
+1761512644947:list-employees
+1761512664852:get-employee
+1761512675762:get-employee --id 1
+1761512688234:get-employee --id 6
+1761513058478:help
+1761513064399:list-employees
+1761513210775:help
+1761513216554:list-employee
+1761513236742:list-employees
+1761513309436:quit
+1761513341381:list-employees
+1761513420954:help
+1761513435712:delete-employee --id 9
+1761513440970:list-employees
+1761513447792:help
+1761513467936:add-employee --name tj --email tj@gmail.com
+1761513506652:add-employee --name tj --email tj@gmail.com --salary 30000
+1761513513184:list-employees
+1761549921708:help
+1761550036628:add-employee --name Mathew --email mathewmaijok@gmail.com --salary 21000
+1761550074537:add-employee --name Aariyan --email aariyansunu@gmail.com --salary 20000
+1761550092740:add-employee --name Titus --email titusjames@gmail.com --salary 20000
+1761550100809:list-employees
+1761550133475:get-employee --id 4
+1761550415464:help
+1761550439067:delete-employee -id 5
+1761550450086:delete-employee --id 5
+1761550489615:help
+1761550547052:update-employee --id 4 --name Aariyan --email aariyans@gmail.com --salary 20000
+1761550557108:get-employee --id 5
+1761550618540:get-employee --id 7
+1761550841168:get-employee --id 5
+1761550847242:get-employee --id 4
+1761550871970:update-employee --id 4 --name Aariyan --email aariyans@gmail.com --salary 20000
+1761550878576:get-employee --id 4
+1761550894014:delete-employee --id 4
+1761550902818:get-employee --id 4
